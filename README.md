@@ -6,8 +6,6 @@ Using this software you can replace every pixel of an image with another image.
 
 ![Example 1](https://i.redd.it/ekrctxm5gzs21.png)
 
-![Example 2](https://i.redd.it/tkfakmveqts21.png)
-
 ### Usage
 
 Download or compile a runnable jar and extract it somewhere in a folder. In that folder, make another folder called "images". In the "images" folder, place the images that will be used as the palette.
