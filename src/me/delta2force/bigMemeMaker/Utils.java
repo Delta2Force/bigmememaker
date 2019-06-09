@@ -34,6 +34,6 @@ public class Utils {
 		int dg = tg-fg;
 		int db = tb-fb;
 		
-		return dr+dg+db;
+		return (int) (Math.pow(dr, 2)+Math.pow(dg, 2)+Math.pow(db, 2));
 	}
 }
