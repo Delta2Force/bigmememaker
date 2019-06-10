@@ -4,7 +4,7 @@ Using this software you can replace every pixel of an image with another image.
 
 ### Examples
 
-![Example 1](https://i.redd.it/ekrctxm5gzs21.png)
+![Example 1](https://i.imgur.com/4svHI40.jpg)
 
 ### Usage
 
